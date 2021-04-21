@@ -29,3 +29,6 @@ Resources consulted:
 3. https://stackabuse.com/how-to-test-a-spring-boot-application/
 4. https://create-react-app.dev/docs/getting-started
 5. https://stackoverflow.com/questions/24371734/firefox-cross-origin-request-blocked-despite-headers
+
+Future improvements to the project:
+1. Adding a full CRUD functionality to the REST API and having the React frontend change/delete the data.
