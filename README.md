@@ -28,3 +28,4 @@ Resources consulted:
 2. https://spring.io/guides/gs/testing-web/
 3. https://stackabuse.com/how-to-test-a-spring-boot-application/
 4. https://create-react-app.dev/docs/getting-started
+5. https://stackoverflow.com/questions/24371734/firefox-cross-origin-request-blocked-despite-headers
